@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>产品介绍 on 无人区科技南京有限公司</title>
+    <link>https://example.com/posts/</link>
+    <description>Recent content in 产品介绍 on 无人区科技南京有限公司</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2020, Steve Francia and the Hugo Authors;
+ All rights reserved.</copyright>
+    
+	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>6G 边缘云</title>
+      <link>https://example.com/posts/satellite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/satellite/</guid>
+      <description>产品简介：  我司6G边缘云可以在油轮，矿山，变电站，钻井平台，野外基地，工地，森林快速实现5G覆盖能力。
+采用0.5米智能化、集成化设计的便携式自动卫星通信设备做5G流量上行。对接业主的中心云，实现私有业务数据的5G网络快速覆盖。 模块化的架构和易插拔的组件使该系统可以在几分钟内完全组装。 通过 Ku 和 Ka 波段套件，该系统还可现场升级到 Ka 波段。 适合于诸如石油和天然气勘探、灾难管理、急救通讯等领域。
+产品特性：   采用商用级的5G基站和定制的高可用边缘云硬件 碳纤维反射面拼瓣设计，组装方便、分解迅速 模块化架构，简洁实现5G、4G的Ku 和 Ka 波段切换和融合通信 独创的对星算法和一流的伺服控制系统，确保快速精确对星 组装速度快，单人从开箱到6G业务开通只需 5 分钟，无需任何工具  订购请洽：sales@nomanland.tech  </description>
+    </item>
+    
+    <item>
+      <title>AR/VR 5G 边缘云</title>
+      <link>https://example.com/posts/arvr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/arvr/</guid>
+      <description>产品简介：  云VR有效解决了终端能力不足的问题，加速了VR产业的进展。VR的大带宽，低时延要求需要5G网络来承载，产业 预期2019年VR应用的需求大约是50Mbps带宽和约20ms时延，未来带宽需求会到200Mbps以上，时延在5ms左右。 譬如，在大型球赛直播现场，通过MEC平台，可以调取全景摄像头拍摄的视频进行清晰实时回放，观众可以通过VR 设备提升观看体验。同时，MEC的低时延高带宽特点可以有效解决观看VR时的眩晕感。 订购请洽：sales@nomanland.tech  </description>
+    </item>
+    
+    <item>
+      <title>爱奇艺 5G 边缘云</title>
+      <link>https://example.com/posts/aiqiyi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/aiqiyi/</guid>
+      <description>产品简介：  OTT CDN，如爱奇艺、腾讯、阿里等CDN节点已经下沉到地市，如果移动网关还在骨干网位置，会导致传输浪费和 体验不佳，MEC部署到地市，可进一步降低传输迂回，降低时延，提升用户体验。 CDN向最靠近用户的边缘网络下沉的产品， 定位于高校、酒店、商场、高铁以及部分国外运营商等中小ISP场景， 通过IOCP技术手段提升对应环境下&amp;quot;内网用户&amp;quot;的观影体验， 降低用户出口带宽压力。更可以通过定制播单方式，来引导网内用户点播定制内容。 不管是手机端、PAD端、VR设备还是智能电视/机顶盒，都能享受到高品质画面及流畅的观影体验。 订购请洽：sales@nomanland.tech  </description>
+    </item>
+    
+  </channel>
+</rss>
